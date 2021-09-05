@@ -9,5 +9,5 @@
 
 ## 更新记录
 * 2021-09-05  
-  * 建立项目框架，文档目录
+  * 建立项目框架，文档目录，使用GitHub的[project](https://github.com/jasonbai/Python-New-to-Master/projects/1) 功能进行本项目的管理，用wiki来管理[“Python - 100天从新手到大师”](<https://github.com/jackfrued/Python-100-Days>)的原始md文件便于阅读。
 * 
