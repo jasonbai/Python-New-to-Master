@@ -1,5 +1,7 @@
 ## 前言
-> **说明** 灵感来自Github上的[“Python - 100天从新手到大师”](<https://github.com/jackfrued/Python-100-Days>)，本人学习Python的过程断断续续长达很多年，但是一直没有成体系的学习，零敲碎打的知识碎片，在每次需要用的时候总是从头开始，一直希望自己能成为一个真正的**master** ，下决心认真梳理。
+> **说明 1** 灵感来自Github上的[“Python - 100天从新手到大师”](<https://github.com/jackfrued/Python-100-Days>)，本人学习Python的过程断断续续长达很多年，但是一直没有成体系的学习，零敲碎打的知识碎片，在每次需要用的时候总是从头开始，一直希望自己能成为一个真正的**master** ，下决心认真梳理。
+> 
+> **说明 2** [“Python - 100天从新手到大师”](<https://github.com/jackfrued/Python-100-Days>)里的项目文档主要是MD文件为主，不太方便在线运行，为了能让项目直接现在云端跑起来，我计划用jupyter格式来运行，方便后期在[binder](https://mybinder.org/)上直接运行。
 >
 >这次做这个项目，希望帮助自己系统学习Python，并完整记录过程，同时会把过程中的学习的材料记录。
 >
